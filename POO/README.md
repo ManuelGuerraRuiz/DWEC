@@ -13,7 +13,7 @@
 
 
 
-Se van a representar las Clases, Objetos e Instancias en Pseudocódigo, Java y Phyton.
+Se van a representar las Clases, Objetos e Instancias en Java 
 
 
 
@@ -63,8 +63,7 @@ Se van a representar las Clases, Objetos e Instancias en Pseudocódigo, Java y P
 
 
 
-Para realizar este apartado de Tarea INTERMEDIO, he creado un fichero de texto para realizar el apartado de _Pseudocodigo_, una carpeta para _Java_ y otra para _Python_.
-
+Para realizar este apartado de Tarea AVANZADO, he creado un fichero de Java para cada uno de los ejercicios
 
 
 
