@@ -4,7 +4,7 @@
 
 
 
-> Tarea INTERMEDIA.
+> Tarea AVANZADA.
 
 
 
