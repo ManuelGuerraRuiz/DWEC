@@ -106,17 +106,25 @@ Suma y resta heredan de operación , y el poliformismo es el resultado de las di
 
 ### 💡 Pruebas
 
+**Encapsulación**
+
 ![encapsulacion](img/encapsulacion.PNG)
 
 ![encapsulacion2](img/encapsulacion2.PNG)
+
+**Abstracción**
 
 ![Abstraccion](img/Abstraccion.PNG)
 
 ![Abstraccion2](img/Abstraccion2.PNG)
 
+**Herencia**
+
 ![herencia](img/herencia.PNG)
 
 ![herencia2](img/herencia2.PNG)
+
+**Polimorfismo**
 
 ![poliformismo](img/poliformismo.PNG)
 
