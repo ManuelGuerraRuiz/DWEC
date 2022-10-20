@@ -86,13 +86,13 @@
 Para realizar este apartado de Tarea AVANZADO, he creado un fichero de Java para cada uno de los ejercicios
 
 
-
+---
 
 
 
 **UML de ejemplo para la solución**
 
-![UML](docs/UML.PNG)
+![UML2](img/uml.PNG)
 
 
 
