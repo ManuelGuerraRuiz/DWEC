@@ -92,7 +92,9 @@ Para realizar este apartado de Tarea AVANZADO, he creado un fichero de Java para
 
 **UML de ejemplo para la solución**
 
-![UML2](img/uml.PNG)
+Suma y resta heredan de operación , y el poliformismo es el resultado de las diferentes operaciónes 
+
+![UML](img/uml.PNG)
 
 
 
@@ -103,3 +105,18 @@ Para realizar este apartado de Tarea AVANZADO, he creado un fichero de Java para
 
 
 ### 💡 Pruebas
+
+![encapsulacion](img/encapsulacion.PNG)
+
+![encapsulacion2](img/encapsulacion2.PNG)
+
+![Abstraccion](img/Abstraccion.PNG)
+
+![Abstraccion2](img/Abstraccion2.PNG)
+
+![herencia](img/herencia.PNG)
+
+![herencia2](img/herencia2.PNG)
+
+![poliformismo](img/poliformismo.PNG)
+
