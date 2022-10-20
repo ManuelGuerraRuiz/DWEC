@@ -38,35 +38,40 @@
 
 
 
-**Clases**
+**Encapsulación**
 
 
 
 
-`Define de forma genérica cómo van a ser los objetos de un tipo`
+`Consiste en ocultar atributos de un objeto de manera que solo se pueda cambiar mediante operaciones definidas en ese objeto.`
 
 
 
 
-**Objetos**
+**Abstracción**
 
 
 
 
-`Es la definición de una clase. Global y genérica`
+`Es la propiedad en virtud de la cual solo se muestran al usuario los detalles esenciales`
 
 
 
 
-**Instancias**
+**Herencia**
 
 
 
 
-`Creadas a partir de una clase, son capaces de modificar métodos y atributos de forma independiente`
+`Es un mecanismo que permite la definición de una clase a partir de la definición de otra ya existente. La herencia permite compartir automáticamente métodos y datos entre clases, subclases y objetos.`
 
 
 
+
+**Polimorfismo**
+
+
+` Es la capacidad que tienen los objetos de una clase en ofrecer respuesta distinta e independiente en función de los parámetros (diferentes implementaciones) utilizados durante su invocación`
 
 ---
 
