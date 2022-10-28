@@ -1,5 +1,5 @@
 # DWEC
-## Programación Orientada a Objetos
+## Tabla dinamica con datos randoms
 
 
 
@@ -12,21 +12,11 @@
 
 
 
-`Encapsulación en Java 1.8`
+`Queremos crear una tabla con un script que genere una tbala que queramos,
+tanto filas como columnas, y luego que introduzca datos aleatorios a la tabla.`
 
 
 
-`Abstracción en Java 1.8`
-
-
-
-
-`Herencia en Java 1.8`
-
-
-
-
-`Polimorfismo en Java 1.8`
 
 
 
@@ -38,40 +28,13 @@
 
 
 
-**Encapsulación**
+**Script**
 
 
 
 
-`Consiste en ocultar atributos de un objeto de manera que solo se pueda cambiar mediante operaciones definidas en ese objeto.`
+`Un lenguaje de script es un pequeño lenguaje de programación cuyo código se inserta dentro del documento HTML. Este código se ejecuta en el navegador del usuario al cargar la página, o cuando sucede algo especial como puede ser el pulsar sobre un enlace.`
 
-
-
-
-**Abstracción**
-
-
-
-
-`Es la propiedad en virtud de la cual solo se muestran al usuario los detalles esenciales`
-
-
-
-
-**Herencia**
-
-
-
-
-`Es un mecanismo que permite la definición de una clase a partir de la definición de otra ya existente. La herencia permite compartir automáticamente métodos y datos entre clases, subclases y objetos.`
-
-
-
-
-**Polimorfismo**
-
-
-` Es la capacidad que tienen los objetos de una clase en ofrecer respuesta distinta e independiente en función de los parámetros (diferentes implementaciones) utilizados durante su invocación`
 
 ---
 
@@ -83,20 +46,7 @@
 
 
 
-Para realizar este apartado de Tarea AVANZADO, he creado un fichero de Java para cada uno de los ejercicios
-
-
----
-
-
-
-**UML de ejemplo para la solución**
-
-Suma y resta heredan de operación , y el poliformismo es el resultado de las diferentes operaciónes 
-
-![UML](img/uml.PNG)
-
-
+Para realizar este apartado de Tarea AVANZADO, he creado un fichero html para el cuerpo de la pagina html y luego lo he llamado desde otro archivo en este caso .JS,donde tengo hecho el script
 
 
 ---
@@ -108,23 +58,5 @@ Suma y resta heredan de operación , y el poliformismo es el resultado de las di
 
 **Encapsulación**
 
-![encapsulacion](img/encapsulacion.PNG)
 
-![encapsulacion2](img/encapsulacion2.PNG)
-
-**Abstracción**
-
-![Abstraccion](img/Abstraccion.PNG)
-
-![Abstraccion2](img/Abstraccion2.PNG)
-
-**Herencia**
-
-![herencia](img/herencia.PNG)
-
-![herencia2](img/herencia2.PNG)
-
-**Polimorfismo**
-
-![poliformismo](img/poliformismo.PNG)
 
