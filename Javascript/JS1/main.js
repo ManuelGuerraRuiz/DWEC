@@ -18,4 +18,4 @@ function generaDatos(filas,columnas) {
     
     tablita.innerHTML += generarTabla;
 } 
-  generaDatos(10,10);
+  generaDatos(12,8);
