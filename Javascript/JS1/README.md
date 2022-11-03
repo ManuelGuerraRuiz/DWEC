@@ -56,7 +56,14 @@ Para realizar este apartado de Tarea AVANZADO, he creado un fichero html para el
 
 ### 💡 Pruebas
 
-**Encapsulación**
+**Criterio de aceptación 1**
+
+Dado que tengo un método generaDatos(5, 4) 
+Cuando pongo los valores fila 5 y columna 4
+Entonces me aparece en el html una tabla con 5 filas y 4 columnas con datos randoms.
+
+
+
 
 
 
