@@ -52,6 +52,11 @@ Para realizar este apartado de Tarea AVANZADO, he creado un fichero html para el
 ---
 
 
+### Implementación
+
+
+He implementado todo lo anterior, ahora procedo hacer el ejercicio
+
 
 
 ### 💡 Pruebas
