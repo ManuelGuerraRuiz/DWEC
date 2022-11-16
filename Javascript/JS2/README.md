@@ -1,10 +1,10 @@
 # DWEC
-## Tabla dinamica con datos randoms
+## Tabla generada con JSON
 
 
 
 
-> Tarea AVANZADA.
+> Tarea INTERMEDIA.
 
 
 
@@ -12,8 +12,8 @@
 
 
 
-`Queremos crear una tabla con un script que genere una tbala que queramos,
-tanto filas como columnas, y luego que introduzca datos aleatorios a la tabla.`
+`Queremos crear una tabla con un script que genere una tabla que apartir de un JSON se introduzcan los datos en la tabla,
+tambien se pide dos filtros tanto para Capitales como para Pais.`
 
 
 
@@ -28,12 +28,12 @@ tanto filas como columnas, y luego que introduzca datos aleatorios a la tabla.`
 
 
 
-**Script**
+**Json**
 
 
 
 
-`Un lenguaje de script es un pequeño lenguaje de programación cuyo código se inserta dentro del documento HTML. Este código se ejecuta en el navegador del usuario al cargar la página, o cuando sucede algo especial como puede ser el pulsar sobre un enlace.`
+`Un Json es un formato que almacena información estructurada y se utiliza principalmente para transferir datos entre un servidor y un cliente.`
 
 
 ---
@@ -46,7 +46,7 @@ tanto filas como columnas, y luego que introduzca datos aleatorios a la tabla.`
 
 
 
-Para realizar este apartado de Tarea AVANZADO, he creado un fichero html para el cuerpo de la pagina html y luego lo he llamado desde otro archivo en este caso .JS,donde tengo hecho el script
+Para realizar este apartado de Tarea INTERMEDIO, he creado un fichero html para el cuerpo de la pagina html y luego lo he llamado desde otro archivo en este caso .JS,donde tengo hecho el script, que contiene un json con la lista de paises y capitales.
 
 
 ---
@@ -58,30 +58,73 @@ Para realizar este apartado de Tarea AVANZADO, he creado un fichero html para el
 
 **Criterio de aceptación 1**
 
-Dado que tengo un método generaDatos(5, 4) 
-Cuando pongo los valores fila 5 y columna 4
-Entonces me aparece en el html una tabla con 5 filas y 4 columnas con datos randoms.
+Dado que tenemos una tabla con las capitales y paises 
+Cuando introducimos en el buscador "Berlín"
+Entonces aparecerá la tabla con la capital y país únicamente
 
 ![GIF1](gifts/1.gif)
 
 
 **Criterio de aceptación 2**
 
-Dado que tengo un método generaDatos(4, 5) 
-Cuando pongo los valores fila 4 y columna 5
-Entonces me aparece en el html una tabla con 4 filas y 5 columnas con datos randoms.
+Dado que tenemos una tabla con las capitales y paises 
+Cuando introducimos en el buscador "cú"
+Entonces aparecerá la tabla con la capital y país únicamente
 
 ![GIF2](gifts/2.gif)
 
 
 **Criterio de aceptación 3**
 
-Dado que tengo un método generaDatos(12, 8) 
-Cuando pongo los valores fila 12 y columna 8
-Entonces me aparece en el html una tabla con 12 filas y 8 columnas con datos randoms.
+Dado que tenemos una tabla con las capitales y paises 
+Cuando introducimos en el buscador "cu"
+Entonces aparecerá la tabla sin valores
 
 ![GIF3](gifts/3.gif)
 
+
+**Criterio de aceptación 4**
+
+Dado que tenemos una tabla con las capitales y paises 
+Cuando introducimos en el buscador "Alemania"
+Entonces aparecerá la tabla sin valores
+
+![GIF4](gifts/4.gif)
+
+
+**Criterio de aceptación 5**
+
+Dado que tenemos una tabla con las capitales y paises 
+Cuando introducimos en el buscador "Croacia"
+Entonces aparecerá la tabla con la capital y país únicamente
+
+![GIF5](gifts/5.gif)
+
+
+**Criterio de aceptación 6**
+
+Dado que tenemos una tabla con las capitales y paises 
+Cuando introducimos en el buscador "Bélgica"
+Entonces aparecerá la tabla con la capital y país únicamente
+
+![GIF6](gifts/6.gif)
+
+
+**Criterio de aceptación 7**
+
+Dado que tenemos una tabla con las capitales y paises 
+Cuando introducimos en el buscador "Belgica"
+Entonces aparecerá la tabla sin valores
+
+![GIF7](gifts/7.gif)
+
+**Criterio de aceptación 8**
+
+Dado que tenemos una tabla con las capitales y paises 
+Cuando introducimos en el buscador "París"
+Entonces aparecerá la tabla sin valores
+
+![GIF8](gifts/8.gif)
 
 
 
