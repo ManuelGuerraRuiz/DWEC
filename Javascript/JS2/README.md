@@ -28,12 +28,12 @@ tambien se pide dos filtros tanto para Capitales como para Pais.`
 
 
 
-**Json**
+**Diagrama de flujo**
 
 
 
 
-`Un Json es un formato que almacena información estructurada y se utiliza principalmente para transferir datos entre un servidor y un cliente.`
+![IMG](gifts/flujo.png)
 
 
 ---
