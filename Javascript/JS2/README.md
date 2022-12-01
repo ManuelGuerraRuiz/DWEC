@@ -33,7 +33,7 @@ tambien se pide dos filtros tanto para Capitales como para Pais.`
 
 
 
-![IMG](gifts/flujo.png)
+![UML](gifts/flujo.PNG)
 
 
 ---
