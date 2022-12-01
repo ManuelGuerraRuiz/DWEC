@@ -1,5 +1,5 @@
 # DWEC
-## Tabla generada con JSON
+## Tres en raya
 
 
 
@@ -12,8 +12,8 @@
 
 
 
-`Queremos crear una tabla con un script que genere una tabla que apartir de un JSON se introduzcan los datos en la tabla,
-tambien se pide dos filtros tanto para Capitales como para Pais.`
+`Queremos crear un tres en raya funcional que tenga un boton para poder jugar otra vez,
+ y un contador que cuente las victorias de cada jugador.`
 
 
 
@@ -33,7 +33,7 @@ tambien se pide dos filtros tanto para Capitales como para Pais.`
 
 
 
-![IMG](gifts/flujo.png)
+![IMG](gifts/uml.png)
 
 
 ---
