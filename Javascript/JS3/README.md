@@ -1,5 +1,5 @@
 # DWEC
-## Tabla generada con JSON
+## Tres en raya
 
 
 
@@ -12,8 +12,8 @@
 
 
 
-`Queremos crear una tabla con un script que genere una tabla que apartir de un JSON se introduzcan los datos en la tabla,
-tambien se pide dos filtros tanto para Capitales como para Pais.`
+`Queremos crear un tres en raya funcional que tenga un boton para poder jugar otra vez,
+ y un contador que cuente las victorias de cada jugador.`
 
 
 
@@ -33,7 +33,7 @@ tambien se pide dos filtros tanto para Capitales como para Pais.`
 
 
 
-![IMG](gifts/flujo.png)
+![IMG](gifts/uml.png)
 
 
 ---
@@ -46,7 +46,7 @@ tambien se pide dos filtros tanto para Capitales como para Pais.`
 
 
 
-Para realizar este apartado de Tarea INTERMEDIO, he creado un fichero html para el cuerpo de la pagina html y luego lo he llamado desde otro archivo en este caso .JS,donde tengo hecho el script, que contiene un json con la lista de paises y capitales.
+Para realizar este apartado de Tarea INTERMEDIO, he creado un fichero html para el cuerpo de la pagina html y luego lo he llamado desde otro archivo en este caso .JS,donde tengo hecho el script, que contiene un json con las diferentes funciones que utilizamos.
 
 
 ---
@@ -58,89 +58,38 @@ Para realizar este apartado de Tarea INTERMEDIO, he creado un fichero html para 
 
 **Criterio de aceptación 1**
 
-Dado que tenemos una tabla con las capitales y paises 
+Dado que el jugador X empieza 
 
-Cuando introducimos en el buscador "Berlín"
+Cuando pulsamos se pone X en el cuadro
 
-Entonces aparecerá la tabla con la capital y país únicamente
+Entonces tendremos que formar tres en raya para ganar
 
-![GIF1](gifts/1.gif)
+![GIF1](gifts/gana-x.gif)
 
 
 **Criterio de aceptación 2**
 
-Dado que tenemos una tabla con las capitales y paises 
+Dado que el jugador O empieza 
 
-Cuando introducimos en el buscador "cú"
+Cuando pulsamos se pone O en el cuadro
 
-Entonces aparecerá la tabla con la capital y país únicamente
+Entonces tendremos que formar tres en raya para ganar
 
-![GIF2](gifts/2.gif)
+![GIF2](gifts/gana-O.gif)
 
 
 **Criterio de aceptación 3**
 
-Dado que tenemos una tabla con las capitales y paises 
+Dado que el jugador X empieza 
 
-Cuando introducimos en el buscador "cu"
+Cuando pulsamos se pone X en el cuadro
 
-Entonces aparecerá la tabla sin valores
+Entonces tendremos que empatar
 
-![GIF3](gifts/3.gif)
-
-
-**Criterio de aceptación 4**
-
-Dado que tenemos una tabla con las capitales y paises 
-
-Cuando introducimos en el buscador "Alemania"
-
-Entonces aparecerá la tabla sin valores
-
-![GIF4](gifts/4.gif)
+![GIF3](gifts/empata.gif)
 
 
-**Criterio de aceptación 5**
 
-Dado que tenemos una tabla con las capitales y paises 
-
-Cuando introducimos en el buscador "Croacia"
-
-Entonces aparecerá la tabla con la capital y país únicamente
-
-![GIF5](gifts/5.gif)
-
-
-**Criterio de aceptación 6**
-
-Dado que tenemos una tabla con las capitales y paises 
-
-Cuando introducimos en el buscador "Bélgica"
-
-Entonces aparecerá la tabla con la capital y país únicamente
-
-![GIF6](gifts/6.gif)
-
-
-**Criterio de aceptación 7**
-
-Dado que tenemos una tabla con las capitales y paises 
-
-Cuando introducimos en el buscador "Belgica"
-
-Entonces aparecerá la tabla sin valores
-
-![GIF7](gifts/7.gif)
-
-**Criterio de aceptación 8**
-
-Dado que tenemos una tabla con las capitales y paises 
-
-Cuando introducimos en el buscador "París"
-
-Entonces aparecerá la tabla sin valores
-
-![GIF8](gifts/8.gif)
 
 
 
