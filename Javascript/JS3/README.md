@@ -64,7 +64,7 @@ Cuando pulsamos se pone X en el cuadro
 
 Entonces tendremos que formar tres en raya para ganar
 
-![GIF1](gifts/gana-x.gif)
+![GIF1](gifts/gana-X.gif)
 
 
 **Criterio de aceptación 2**
@@ -86,7 +86,7 @@ Cuando pulsamos se pone X en el cuadro
 
 Entonces tendremos que empatar
 
-![GIF3](gifts/empata.gif)
+![GIF3](gifts/empate.gif)
 
 
 
