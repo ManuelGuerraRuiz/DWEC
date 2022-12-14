@@ -1,5 +1,5 @@
 # DWEC
-## Tres en raya
+## API Pokemon
 
 
 
@@ -12,8 +12,7 @@
 
 
 
-`Queremos crear un tres en raya funcional que tenga un boton para poder jugar otra vez,
- y un contador que cuente las victorias de cada jugador.`
+`Queremos consultar la api de pokemon y mostrar en una tabla los datos que se piden en la tarea`
 
 
 
@@ -58,35 +57,26 @@ Para realizar este apartado de Tarea INTERMEDIO, he creado un fichero html para 
 
 **Criterio de aceptación 1**
 
-Dado que el jugador X empieza 
+Dado que busco un pokemon
 
-Cuando pulsamos se pone X en el cuadro
+Cuando pulsamos buscar busca en la api
 
-Entonces tendremos que formar tres en raya para ganar
+Entonces tendremos el pokemon mostrado en la tabla
 
 ![GIF1](gifts/gana-x.gif)
 
 
 **Criterio de aceptación 2**
 
-Dado que el jugador O empieza 
+Dado que no busco un pokemon
 
-Cuando pulsamos se pone O en el cuadro
+Cuando pulsamos el boton busca en la api
 
-Entonces tendremos que formar tres en raya para ganar
-
+Entonces tendremos muestra que no existe el pokemon
 ![GIF2](gifts/gana-O.gif)
 
 
-**Criterio de aceptación 3**
 
-Dado que el jugador X empieza 
-
-Cuando pulsamos se pone X en el cuadro
-
-Entonces tendremos que empatar
-
-![GIF3](gifts/empata.gif)
 
 
 
