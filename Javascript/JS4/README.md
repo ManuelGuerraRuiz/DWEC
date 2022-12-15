@@ -32,7 +32,7 @@
 
 
 
-![IMG](gifts/uml.png)
+![IMG](gifts/uml1.png)
 
 
 ---
@@ -73,6 +73,8 @@ Dado que no busco un pokemon
 Cuando pulsamos el boton busca en la api
 
 Entonces tendremos muestra que no existe el pokemon
+
+
 ![GIF2](gifts/persona.gif)
 
 
