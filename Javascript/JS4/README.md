@@ -63,7 +63,7 @@ Cuando pulsamos buscar busca en la api
 
 Entonces tendremos el pokemon mostrado en la tabla
 
-![GIF1](gifts/gana-x.gif)
+![GIF1](gifts/pokemon.gif)
 
 
 **Criterio de aceptación 2**
@@ -73,7 +73,7 @@ Dado que no busco un pokemon
 Cuando pulsamos el boton busca en la api
 
 Entonces tendremos muestra que no existe el pokemon
-![GIF2](gifts/gana-O.gif)
+![GIF2](gifts/persona.gif)
 
 
 
