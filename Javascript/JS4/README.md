@@ -45,7 +45,7 @@
 
 
 
-Para realizar este apartado de Tarea INTERMEDIO, he creado un fichero html para el cuerpo de la pagina html y luego lo he llamado desde otro archivo en este caso .JS,donde tengo hecho el script, que contiene un json con las diferentes funciones que utilizamos.
+Para realizar este apartado de Tarea INTERMEDIO, he creado un fichero html para el cuerpo de la pagina html y luego lo he llamado desde otro archivo en este caso .JS,donde tengo hecho el script, que contiene las llamadas necesarias a la api , que parseamos a un JSON para tomar los datos.
 
 
 ---
