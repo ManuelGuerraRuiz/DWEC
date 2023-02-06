@@ -1,0 +1,35 @@
+// Creo una clase que lo que va hacer es que las subclase tengan el mismo color a toda las figuras
+public abstract class Figura
+{
+    private String color;
+
+    public Figura(String color)
+    {
+        this.color = color;
+    }
+
+    public abstract double calcularArea();
+
+    public String getColor()
+    {
+        return color;
+    }
+}
+
+//Ahora con super(color) es como llamo a la abstracion
+
+public class Cuadrado extends Figura
+{
+    private double lado;
+
+    public Cuadrado(String color, double lado)
+    {
+        super(color);
+        this.lado = lado;
+    }
+
+    public double calcularArea()
+    {
+        return lado * lado;
+    }
+}
