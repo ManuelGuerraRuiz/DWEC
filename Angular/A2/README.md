@@ -1,5 +1,5 @@
 # DWEC
-## AN1 LOGIN-REGISTER
+## AN2 PAGINACIÓN
 
 
 
@@ -12,7 +12,7 @@
 
 
 
-`Queremos crear una aplicacion con un login y un register utilizando angular`
+`Queremos crear las rutas para la paginacion de las paginas`
 
 
 
@@ -45,7 +45,7 @@
 
 
 
-Para realizar este apartado de Tarea AVANZADA, he creado un proyecto en angular y le he añadido componentes.
+Para realizar este apartado de Tarea AVANZADA, he creado un proyecto en angular y le he añadido paginas,tambien lo he enrutado para moverme entres las paginas.
 
 
 ---
@@ -62,49 +62,16 @@ Para realizar este apartado de Tarea AVANZADA, he creado un proyecto en angular 
 
 **Criterio de aceptación 1**
 
-Dado que escribo bien los datos
+Dado que me muevo entre las paginas
 
-Cuando pulsamos login no da fallo
+Cuando pulsamos cualquier link
 
-Entonces entraremos en la pagina
+Entonces me llevara a la pagina deseada
 
 ![GIF1](recursos/gif1.gif)
 
 
-**Criterio de aceptación 2**
 
-Dado que no escribo bien los datos
-
-Cuando pulsamos login da fallo
-
-Entonces no entraremos en la pagina
-
-
-![GIF2](recursos/gif2.gif)
-
-
-**Criterio de aceptación 3**
-
-Dado que  escribo bien los datos
-
-Cuando pulsamos signup  no da fallo
-
-Entonces nos registraremos correctamente
-
-
-![GIF3](recursos/gif3.gif)
-
-
-**Criterio de aceptación 4**
-
-Dado que no escribo bien los datos
-
-Cuando pulsamos signup  da fallo
-
-Entonces no nos registraremos correctamente
-
-
-![GIF4](recursos/gif4.gif)
 
 
 
