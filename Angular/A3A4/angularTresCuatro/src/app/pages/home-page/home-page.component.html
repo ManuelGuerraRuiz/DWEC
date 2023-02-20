@@ -1,0 +1,6 @@
+<app-navbar></app-navbar>
+<h1>ESTA ES LA PAGINA DE INICIO</h1>
+<div class="mb-4">
+ Tipo selecionado {{ SelectedType }}
+</div>
+<app-pokemon (OnChange)="changeType($event)" [Items]="['Fire', 'Water', 'Grass']" SelectedItem="Fire"></app-pokemon>
