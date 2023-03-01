@@ -13,6 +13,8 @@ import { EnsamblePageComponent } from './pages/ensamble-page/ensamble-page.compo
 import { NosotrosPageComponent } from './pages/nosotros-page/nosotros-page.component';
 import { AyudaPageComponent } from './pages/ayuda-page/ayuda-page.component';
 import { PokemonComponent } from './components/pokemon/pokemon.component';
+import { HttpClient, HttpClientModule } from '@angular/common/http';
+import { PokemonService } from './services/pokemons.service';
 
 @NgModule({
   declarations: [
@@ -31,9 +33,10 @@ import { PokemonComponent } from './components/pokemon/pokemon.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpClientModule
   ],
-  providers: [],
+  providers: [PokemonService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
